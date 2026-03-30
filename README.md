@@ -1,6 +1,6 @@
 # SOC-Labs
 Hands-on cybersecurity lab documentation by Khaled Al-Mohammadi  
-Aspiring SOC Analyst | Security+ | CySA+ | eJPT | eCTHP (in progress)
+Aspiring SOC Analyst | Security+ | CySA+ | eJPT | CSA | eCTHP (in progress)
 
 ---
 
