@@ -24,4 +24,8 @@ Lessons learned from a SOC analyst perspecti
 
 ## Skills Demonstrated
 
-Windows Event Log analysis and audit policy configuration
+- Windows Event Log analysis and audit policy configuration
+- SIEM use case development and real-time alerting (Splunk)
+- Brute-force attack detection using SPL queries
+- MITRE ATT&CK technique mapping
+- Attack simulation and alert validation
