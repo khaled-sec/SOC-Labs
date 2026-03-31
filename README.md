@@ -18,7 +18,7 @@ Lessons learned from a SOC analyst perspecti
 
 | # | Module | Topics | Status |
 |---|--------|--------|--------|
-| 01 | [Log Management](./01-Log-Management/README.md) | FTP Brute Force, SQL Injection, IIS Logs, Event Viewer, XPath Filters | ✅ Complete |
+| 01 | [Log Management](./01-Log-Management) | FTP Brute Force, SQL Injection, IIS Logs, Event Viewer, XPath Filters | ✅ Complete |
 
 
 
