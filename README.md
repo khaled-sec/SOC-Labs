@@ -16,9 +16,9 @@ Lessons learned from a SOC analyst perspecti
 
 ## Lab Modules
 
-| # | Module | Topics | Status |
+| # | Module | labs | Status |
 |---|--------|--------|--------|
-| 01 | [Log Management](./01-Log-Management) | FTP Brute Force, SQL Injection, IIS Logs, Event Viewer, XPath Filters | ✅ Complete |
+| 01 | [Log Management](./01-Log-Management) | 2 | ✅ Complete |
 
 
 
