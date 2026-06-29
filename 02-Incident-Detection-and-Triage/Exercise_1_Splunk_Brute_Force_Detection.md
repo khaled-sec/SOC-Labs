@@ -33,7 +33,7 @@ Go to:
 
 Enable **SplunkForwarder**, set **Visible = Yes**, then restart Splunk.
 
-![](assets/image%202.png)
+![](assets/image.png)
 
 ---
 
