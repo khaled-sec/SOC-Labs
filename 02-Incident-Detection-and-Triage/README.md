@@ -1,4 +1,4 @@
-incident detection and triage  
+### incident detection and triage  
 ## Exercise 1: Splunk Brute-Force Detection Use Case
 
 **Objective:** Detect brute-force login attempts using Windows Security Events and generate real-time alerts in Splunk SIEM.
