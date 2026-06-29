@@ -132,7 +132,28 @@ Open **View Results** and review the detected account along with the login stati
 
 ## Key Findings
 
-* Event IDs **4624** and **4625** are primary indicators for Windows authentication activity.
-* Correlating failed and successful logins within a time window significantly improves brute-force detection.
-* Alert throttling using **Account_Name** prevents duplicate alerts during ongoing attacks.
-* Splunk can generate real-time detections for authentication attacks using SPL correlation searches.
+- Event IDs 4624 / 4625 are primary indicators for Windows authentication activity.
+- Correlating failed and successful logins within a time window improves brute-force detection.
+- Alert throttling using Account_Name prevents duplicate alerts.
+- Splunk can generate real-time detections using SPL correlation searches.
+
+---
+
+## What I Learned
+
+- Built a real-time Splunk detection rule using SPL.
+- Correlated Windows authentication events (4624/4625) to detect brute-force attacks.
+- Configured alert throttling to reduce duplicate alerts.
+- Validated the detection by simulating a real attack with Hydra.
+- Mapped the detection to MITRE ATT&CK (T1110 – Brute Force).
+
+---
+
+## Skills Demonstrated
+
+- SPL Query Development
+- SIEM Alert Engineering
+- Windows Security Log Analysis
+- Brute Force Detection
+- MITRE ATT&CK Mapping
+- Alert Tuning (Throttling)
