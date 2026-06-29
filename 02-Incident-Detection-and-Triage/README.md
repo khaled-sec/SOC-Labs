@@ -32,6 +32,6 @@ index=* (EventCode=4624 OR EventCode=4625)
 
 📄 Full Lab Writeup →
 
-Splunk Use Case: Brute-Force Detection & Alerting
+[Splunk Use Case: Brute-Force Detection & Alerting](./Exercise_1_Splunk_Brute_Force_Detection.md)
 
 ---
