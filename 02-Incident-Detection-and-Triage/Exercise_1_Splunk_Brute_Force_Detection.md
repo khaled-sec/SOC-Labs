@@ -126,7 +126,7 @@ Verify that the alert **Failed Login Attempts** has been triggered.
 
 Open **View Results** and review the detected account along with the login statistics.
 
-![](assets/image%209.png)
+![](assets/image%210.png)
 
 ---
 
