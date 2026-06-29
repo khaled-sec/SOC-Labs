@@ -18,7 +18,8 @@ Lessons learned from a SOC analyst perspecti
 
 | # | Module | labs | Status |
 |---|--------|--------|--------|
-| 01 | [Log Management](./01-Log-Management) | 2 | ✅ Complete |
+| 01 |[Log Management](./01-Log-Management) | 2 | ✅ Complete |
+| 01 |[incident detection and triage](./01-Log-Management) | 2 | ✅ Complete |
 
 
 
