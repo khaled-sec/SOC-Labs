@@ -35,3 +35,10 @@ index=* (EventCode=4624 OR EventCode=4625)
 [Splunk Use Case: Brute-Force Detection & Alerting](./Exercise_1_Splunk_Brute_Force_Detection.md)
 
 ---
+### What I Learned
+
+- Built detection logic using Splunk SPL.
+- Created real-time SIEM alerts.
+- Configured alert throttling to reduce alert fatigue.
+- Validated detections by simulating attacks with Hydra.
+- Mapped detections to the MITRE ATT&CK framework.
