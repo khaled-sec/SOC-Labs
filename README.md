@@ -10,7 +10,7 @@ Every lab includes:
 Full step-by-step documentation
 Screenshots of key findings
 Technical analysis linking attack patterns to indicators
-Lessons learned from a SOC analyst perspecti
+Lessons learned from a SOC analyst perspective
 
 ---
 
