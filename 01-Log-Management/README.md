@@ -32,7 +32,7 @@ This document covers two hands-on exercises focused on configuring, monitoring, 
 | --- | --- | --- | --- | --- |
 | 1 | Windows Local Logging | FTP Brute Force | Hydra | Event ID 4625 — Logon Type 8 |
 | 2 | IIS Log Monitoring | SQL Injection | Browser (manual) | IIS W3C Log — cs-uri-query |
-|  |  |  |  |  |
+
 
 ## Exercise 1 — Windows Local Logging
 
